@@ -1,0 +1,2 @@
+U:\InterestRateCalc\Debug\InterestRateCalc.exe
+U:\InterestRateCalc\Debug\InterestRateCalc.pdb
