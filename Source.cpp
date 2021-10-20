@@ -1,6 +1,6 @@
 /*
 *Investment Banking App
-Author: Garrett McEwen
+*Author: Garrett McEwen
 *Version: 1.0
 *Designed for Airgead Banking corp. by Chada Tech.
 *This Program Calculates Investment returns over a period of time.
